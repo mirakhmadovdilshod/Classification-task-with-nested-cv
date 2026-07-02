@@ -82,4 +82,4 @@ This project is for educational purposes as part of a university course. The mod
 
 ## Author
 
-Course project — AI for Medicine, University of Bologna, A.A. 2025–2026.
+Course project by Mirakhmadov Dilshod — AI for Medicine, University of Bologna, A.A. 2025–2026.
