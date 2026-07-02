@@ -82,5 +82,5 @@ This project is for educational purposes as part of a university course. The mod
 
 ## Author
 
-Course project by MDC
+Course project by MDS
 
