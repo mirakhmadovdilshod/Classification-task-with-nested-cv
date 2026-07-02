@@ -2,7 +2,7 @@
 
 Classification of breast tumor diagnosis (Malignant vs. Benign) using supervised machine learning with a Stratified Nested Cross-Validation scheme.
 
-Course project for **AI for Medicine**, University of Bologna (A.A. 2025–2026).
+Course project for **AI for Medicine**
 
 ## Overview
 
@@ -82,4 +82,5 @@ This project is for educational purposes as part of a university course. The mod
 
 ## Author
 
-Course project by Mirakhmadov Dilshod — AI for Medicine, University of Bologna, A.A. 2025–2026.
+Course project by MDC
+
